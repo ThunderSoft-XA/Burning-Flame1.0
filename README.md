@@ -4,6 +4,7 @@
 
 Basic Information:
 
+SDK tools:Qualcomm Adreno GPU SDK
 
 Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo.
 
